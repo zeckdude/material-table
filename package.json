@@ -1,7 +1,7 @@
 {
   "name": "material-table",
   "version": "1.69.2",
-  "description": "Datatable for React based on https://material-ui.com/api/table/ with additional features",
+  "description": "Datatable for React based on https://material-ui.com/api/table/ with additional features - by zeckdude",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
   "files": [
