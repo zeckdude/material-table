@@ -20,6 +20,9 @@
     "lint:fix": "eslint src/** --fix",
     "prettify": "prettier --write **/*.js"
   },
+  "precommit": [
+    "build"
+  ],
   "husky": {
     "hooks": {
       "pre-commit": "npm run lint && pretty-quick --staged"
